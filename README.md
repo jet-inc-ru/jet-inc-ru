@@ -1,0 +1,6 @@
+ - EN:
+ - This is a git account of Jet Inc. company
+ - There you can find our open source software
+ - RU:
+ - Это гит аккаунт компании Jet Inc.
+ - Здесь вы сможете найти наше ПО в открытом доступе
